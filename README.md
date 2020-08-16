@@ -6,7 +6,7 @@
 
 ### Data Analyst / ICT Business Analyst
 
-- 🔭 I’m currently working on the project that delivers business insight and vision for business owners who have been significantly impacted by COVID 19 pandamic. 
+- 🔭 I’m currently working on the project that delivers business insight and vision for business owners who have been significantly impacted by COVID 19 pandemic. 
 - 🌱 I’m currently enrolled in the full-time data science course in Seoul, Korea.
 - 💬 About me: One never reaches home, but wherever friendly paths intersect the whole world looks like home for a time.
 - 📫 How to reach me: shane.kang@outlook.com
