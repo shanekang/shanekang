@@ -4,8 +4,6 @@
 
 </div>
 
-### Hi there 👋
- 
 ### Data Analyst / ICT Business Analyst
 
 - 🔭 I’m currently working on the project that delivers business insight and vision for business owners who have been significantly impacted by COVID 19 pandamic. 
