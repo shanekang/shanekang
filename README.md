@@ -6,8 +6,8 @@
 
 ### Data Analyst / ICT Business Analyst
 
-- 🔭 I’m currently working on the project that delivers business insight and vision for business owners who have been significantly impacted by COVID 19 pandemic. 
-- 🌱 I’m currently enrolled in a full-time data science course in Seoul, Korea.
+- 🔭 I am working on the project that delivers business insight and vision for business owners who have been significantly impacted by COVID 19 pandemic. 
+- 🌱 I amC urrently enrolled in an immersive data science Bootcamp which is a six-month program that prepares graduates for entry-level and junior data science jobs. This program teaches technical skills in data analysis including data visualization, machine learning, deep learning, statistical analysis, predictive analytics, programming in python, R, and some areas of big data infrastructure techniques and tools such as text mining, computer vision, RESTful API, MySQL, MongoDB, Hive, Hadoop, AWS, and ELK. 
 - 💬 About me: One never reaches home, but wherever friendly paths intersect the whole world looks like home for a time.
 - 📫 How to reach me: shane.kang@outlook.com
 - 😄 Pronouns: Bodhisattva
