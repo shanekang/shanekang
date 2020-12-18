@@ -4,10 +4,8 @@
 
 </div>
 
-### Data Analyst / ICT Business Analyst
+### Technical Engineer
 
-- 🔭 I am working on the project that delivers business insight and vision for business owners who have been significantly impacted by COVID 19 pandemic. 
-- 🌱 I am currently enrolled in an immersive data science Bootcamp which is a six-month program that prepares graduates for entry-level and junior data science jobs. This program teaches technical skills in data analysis, data visualization, statistical analysis, predictive analytics, and some areas of programming such as Python and R. 
 - 💬 About me: One never reaches home, but wherever friendly paths intersect the whole world looks like home for a time.
 - 📫 How to reach me: shane.kang@outlook.com
 - 😄 Pronouns: Bodhisattva
