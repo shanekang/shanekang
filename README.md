@@ -9,7 +9,7 @@
 - 💬 About me: One never reaches home, but wherever friendly paths intersect the whole world looks like home for a time.
 - 📫 How to reach me: shane.kang@outlook.com
 - 😄 Pronouns: Bodhisattva
-- ⚡ Fun fact: I used to go to Buddhist sanctuary in the morning, and the Catholic church in the evening on the same day. :-)
+- ⚡ Fun fact: I used to go to a Buddhist sanctuary in the morning, and a Catholic church in the evening on the same day.
 
 
 
