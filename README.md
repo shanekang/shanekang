@@ -4,14 +4,40 @@
 
 </div>
 
-### Technical Engineer
+# Shane Kang
 
-- 💬 About me: One never reaches home, but wherever friendly paths intersect the whole world looks like home for a time.
-- 📫 How to reach me: shane.kang@outlook.com
-- 😄 Pronouns: Bodhisattva
-- ⚡ Fun fact: I used to go to a Buddhist sanctuary in the morning, and a Catholic church in the evening on the same day.
+Telecommunications Infrastructure & Network Security Professional
 
+Focused on Networking, Critical Infrastructure, and Cyber Security.
 
+---
+
+## About Me
+
+- 📡 Currently working within Australia’s national broadband infrastructure (nbn)
+- 🔐 Advancing expertise through CompTIA Network+ and Security+ preparation
+- 🛰 Exploring satellite networking through hands-on Starlink Lab experiments
+- 🛠 Building practical networking and security home lab projects
+- 🇦🇺 Interested in protecting critical telecommunications infrastructure
+- 🧠 Bridging telecommunications engineering with security-focused thinking
+
+---
+
+## Current Focus
+
+- ISP & carrier-level network architecture
+- Defensive security fundamentals
+- CGNAT and large-scale routing environments
+- Packet analysis & latency behaviour
+- Satellite and terrestrial backbone systems
+
+---
+
+## Projects
+
+- 📡 Starlink Network Lab – Satellite & ISP-level architecture analysis
+- 🔎 Networking & Telecom Study Notes – Structured knowledge documentation
+- 🧪 Home Lab Infrastructure Experiments – Packet analysis & routing tests
 
 <div align=center>
 	
